@@ -1,0 +1,20 @@
+<globalnoc>
+<element>Element 1 </element>
+<element>Element 2 </element>
+<element>Element 3 </element>
+<element>Element 4 </element>
+<location>Location 1 </location>
+<location>Location 2 </location>
+<location>Location 3 </location>
+<location>Location 4 </location>
+<location>Location 5 </location>
+<geography>
+<lats>0 </lats>
+<longs>0 </longs>
+<geography>
+<lats>100 </lats>
+<longs>100 </longs>
+
+</geography>
+
+</globalnoc>
